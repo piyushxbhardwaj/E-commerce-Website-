@@ -1,4 +1,4 @@
-Sure! Here’s a concise and informative description for an e-commerce website project that you can use on GitHub:
+
 E-Commerce Website
 
 This project is a simple yet functional e-commerce website built using HTML, CSS, and JavaScript. It showcases fundamental web development skills and provides a base for creating an online store.
