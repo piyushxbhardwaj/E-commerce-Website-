@@ -23,7 +23,7 @@ To set up this project locally, follow these steps:
 
     bash
 
-git clone https://github.com/yourusername/e-commerce-website.git
+git clone https://github.com/piyushxbhardwaj/e-commerce-website.git
 
 Navigate to the Project Directory:
 
